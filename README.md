@@ -1,2 +1,2 @@
 # InfyTQ
-# Solutions of Infosys Python Foundation Course
+Solutions of Infosys Python Foundation Course. 
